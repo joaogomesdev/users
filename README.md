@@ -8,7 +8,7 @@
 
 <p align="center">
 
- <img src="https://i.imgur.com/TOX5pV1.png" alt="APP"/>
+![Alt Text](https://media.giphy.com/media/t67xPdTbOm0zS9Li8h/giphy.gif)
 </p>
 
 
@@ -26,20 +26,18 @@
 
 - [X] Adonis 5
 - [X] SQLite
-- [X] HTTP
-
 
 ## 🟣 Routes
 
 If you want to test the routes you can access the following routes:
 
-Create user - POST METHOD
+**Create user - POST METHOD**
 
 ```cl
 http://localhost/api/users
 ```
 
-JSON body example
+**JSON body example**
 
 ```json
   {
@@ -48,7 +46,7 @@ JSON body example
   }
 ```
 
-List all users - GET METHOD
+**List all users - GET METHOD**
 
 ```cl
 http://localhost/api/users
@@ -56,7 +54,7 @@ http://localhost/api/users
 
 ## Running the project
 
-Clone the repository
+**Clone the repository**
 
 Use **yarn** or **npm install** to install project dependencies.
 
