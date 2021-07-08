@@ -4,16 +4,12 @@
 </h1>
 <h1 align="center">
  <img alt="AdonisAPI" height="80" title="" src="https://i.imgur.com/fFn8zH1.png" />
+
+
+
+![Gif](https://media.giphy.com/media/t67xPdTbOm0zS9Li8h/giphy.gif)
+
 </h1>
-
-
-<h1 align="center">
-  ![Alt Text](https://media.giphy.com/media/t67xPdTbOm0zS9Li8h/giphy.gif)
-</h1>
-
-
-
-
 
 ## 💻 Project
 🔺 A simple Adonis API to handle users, to test the new version of Adonis 5 🧔
